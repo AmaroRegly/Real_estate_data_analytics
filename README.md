@@ -3,3 +3,5 @@
 Filtrar os imóveis do nosso portfólio.
 <h2><b>Analysis Objective</b></h2>
 Atualizar nosso portfólio de imóveis para alugar. Para isso, precisamos de um panorama geral dos nossos imóveis e entender quantos imóveis temos
+<h2>Dashboard</h2>
+https://github.com/AmaroRegly/Real_estate_data_analytics/issues/1#issue-2127573073

@@ -3,4 +3,3 @@
 Filtrar os imóveis do nosso portfólio.
 <h2><b>Analysis Objective</b></h2>
 Atualizar nosso portfólio de imóveis para alugar. Para isso, precisamos de um panorama geral dos nossos imóveis e entender quantos imóveis temos
-<h2><b>About the data</b></h2>
